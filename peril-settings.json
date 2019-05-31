@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "pull_request, pull_request.labeled, pull_request.unlabeled": "rules.ts"
+  }
+}
