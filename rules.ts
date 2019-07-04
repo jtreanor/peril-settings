@@ -1,3 +1,3 @@
 import {warn} from "danger";
 
-warn("Test warning");
+warn("Test warning!");
